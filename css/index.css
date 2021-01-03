@@ -23,37 +23,37 @@ p{
 }
 .a {
 
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5)), url("images/tom1.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5)), url("../images/tom1.png");
 
 }
 
 .s {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5)), url("images/tom2.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5)), url("../images/tom2.png");
 
 }
 
 .d {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5)), url("images/tom3.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5)), url("../images/tom3.png");
 
 }
 
 .f{
-  background-image:  linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5)),url("images/tom4.png");
+  background-image:  linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5)),url("../images/tom4.png");
 
 }
 
 .j {
-  background-image:  linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5)),url("images/snare.png");
+  background-image:  linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5)),url("../images/snare.png");
 
 }
 
 .k {
-  background-image:  linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5)),url("images/kick.png");
+  background-image:  linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5)),url("../images/kick.png");
 
 }
 
 .l {
-  background-image:  linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 1, 0.5)),url("images/crash.png");
+  background-image:  linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 1, 0.5)),url("../images/crash.png");
 
 }
 
